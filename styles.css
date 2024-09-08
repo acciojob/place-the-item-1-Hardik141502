@@ -1,2 +1,77 @@
+.container {
+	display : flex ;
+	justify-content : space-around ;
+	
+}
+  .green {
+	  background-color : green ;
+	  width : 100px ;
+	  height : 100px ;
+	  font-size : 50px
+  }
+ .red {
+	  background-color : red ;
+	  width : 100px ;
+	  height : 100px ;
+	  font-size : 50px
+  }
+ .blue {
+	  background-color : blue ;
+	  width : 100px ;
+	  height : 100px ;
+	  font-size : 50px
+  }
+.container-1 {
+	display :flex ;
+	flex-wrap : wrap ;
+	justify-content : space-around ;
+}
+ .green-1 {
+	  background-color : green ;
+	  width : 100px ;
+	  height : 100px ;
+	  font-size : 50px
+  }
+ .green-2 {
+	  background-color : green ;
+	  width : 100px ;
+	  height : 100px ;
+	  font-size : 50px
+  }
+ .green-3 {
+	  background-color : green ;
+	  width : 100px ;
+	  height : 100px ;
+	  font-size : 50px
+  }
+ .green-4 {
+	  background-color : green ;
+	  width : 100px ;
+	  height : 100px ;
+	  font-size : 50px
+  }
+ .green-5 {
+	  background-color : green ;
+	  width : 100px ;
+	  height : 100px ;
+	  font-size : 50px
+  }
+ .red-1 {
+	  background-color : red ; ;
+	  width : 100px ;
+	  height : 100px ;
+	  font-size : 50px ;
+  }
+ .blue-1 {
+	  background-color : blue ;
+	  width : 100px ;
+	  height : 100px ;
+	  font-size : 50px ;
+	 
+	
+  }
+.container-1 {
+	padding : 50px ;
+	width : 600px ;
 
-/* Your CSS Code here. */
+}
